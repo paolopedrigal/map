@@ -1,4 +1,4 @@
-<svg viewBox="0 0 942 616" width="60vw" height="60vh">
+<svg viewBox="0 0 942 616" width="100vw" height="100vh">
     <image
         href="https://drive.google.com/uc?export=view&id=1kl3RAT2Yd9KGzjY8qyDlDLEWrPNF8GWC"
     ></image>
