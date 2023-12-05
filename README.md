@@ -1,5 +1,7 @@
 # [San Jose District 4 Map](https://www.electdavidcohen.com/neighborhoods)
 
+![License Static Badge](https://img.shields.io/badge/license-MIT-orange)
+
 ## Description
 
 Small project to help me tune the coordinates of neighborhoods in District 4 of San Jose, California, United States.
@@ -36,3 +38,7 @@ $ python3 coordinates/alviso.txt 135 418 40 340
 ```
 
 Finally, after converting the coordinates, HTML SVG polygon tag elements were used as the `points` attribute contained the set of coordinates.
+
+## License
+
+MIT License.
