@@ -17,6 +17,10 @@ Small project to help me tune the coordinates of neighborhoods in District 4 of 
 
 This project was used ultimately for San Jose City Councilmember David Cohen in his election website. You can check out the map live [here!](https://www.electdavidcohen.com/neighborhoods) (Full URL: https://www.electdavidcohen.com/neighborhoods)
 
+
+## Quick demo
+![david-cohen-map](https://github.com/user-attachments/assets/f339042d-086c-410e-8f79-60e6809ff4db)
+
 ## In the works
 
 The bottleneck in this project was converting the geographical coordinates to pixel coordinates for the SVG polygons. The project used Python to manipulate the coordinates, but was used for one neighborhood region at a time, and _not_ all of them together.
